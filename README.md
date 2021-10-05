@@ -5,7 +5,7 @@ This is Python based Project on COVID-19 Vaccine slot Booking Alert.
 
 DESCRIPTION of the Project-
 
-In this, the user will get the alert of available Vaccine slot in that particular area or location .So that they can book their slot online with ease.
+In this, the user will get the alert with a (Beep sound ) of available Vaccine slot in that particular area or location .So that they can book their slot online with ease.
 With the help of this project Any person or User of age from 18 or above can book their vaccine slot on Cowin.gov.in portal as early as he or she get the alert
 through this code.
 
