@@ -2,7 +2,8 @@ Screenshots of all outputs of the project
 
 If the Slots are Available:
 
-![Capture (2)](https://user-images.githubusercontent.com/67605455/136092736-7ba19db7-8a8d-4e53-9c44-8f70d134e62f.JPG)
+![image](https://user-images.githubusercontent.com/67605455/136238343-b997bffe-42aa-4316-9d60-a00ad12d6630.png)
+
 
 If Slots are NOT available then:-
 
