@@ -29,12 +29,12 @@ If the slot are available then it will show the following output:-
               
 Otherwise , it will show No available .
 
-API Link:- "https://apisetu.gov.in/public/marketplace/api/cowin".
+Used API Link:- "https://apisetu.gov.in/public/marketplace/api/cowin".
 
 Procedure:- 
 
               1. Open pycharm or any compiler , then open terminal and type this on terminal -"pip install playsound".
               
-              2. then paste the Code. and repalce the pin = 110051 --> with (your pin code) and the date --> with ( cuurent date )
+              2. then paste the Code. and replace the pin = 110051 --> with (your pin code) and the date --> with ( current date )
               
               3. And run it.
